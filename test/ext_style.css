@@ -1,0 +1,3 @@
+* { fill: none; stroke: black; }
+rect { stroke-dasharray: 7 3; }
+circle.yellow { fill: yellow; }
